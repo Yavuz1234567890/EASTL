@@ -16,3 +16,6 @@
 [submodule "test/packages/EAThread"]
 	path = test/packages/EAThread
 	url = ../EAThread.git
+[submodule "EABase"]
+	path = EABase
+	url = https://github.com/Yavuz1234567890/EABase.git
